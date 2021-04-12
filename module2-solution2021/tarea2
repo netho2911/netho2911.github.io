@@ -1,0 +1,84 @@
+@import url(https://fonts.googleapis.com/css?family=Balsamiq+Sans);
+*{    
+font-family: "Balsamiq Sans";    
+box-sizing: border-box;
+}
+
+h1 {    
+text-align: center;    
+margin-top:35px;
+}
+
+#container {    
+  width: 1300px;    
+  margin:auto;
+}
+.item{    
+
+border: 2px solid black;    
+margin-top: 40px;    
+background: #bfbfbf;    
+height: 150px;    
+padding:0;
+}
+
+p{    
+padding:0;    
+margin:0;
+}
+
+#topright{    
+text-align: right;    
+padding:0;
+}
+
+#chicken{    
+float:left;    
+width:420px;    
+height:180px;    
+margin-right:20px;
+}
+
+#chicken1{    
+background-color: #D59898;    
+width: 130px;    
+text-align: center;    
+border: 2px solid black;    
+padding:0;
+position: relative;
+  left:288px;
+}
+
+#beef{    
+float:left;    
+width:420px;    
+height:180px;    
+margin-right:20px;
+}
+
+#beef1{    
+background-color: #C14543;    
+width: 130px;    
+text-align: center;    
+border: 2px solid black;     
+color: white;
+position: relative;
+  left:288px;
+}
+
+#sushi{    
+float:left;    
+width:420px;    
+height:180px;
+}
+
+#sushi1{    
+
+background-color: #E5D198;    
+width: 130px;    
+text-align: center;    
+border: 2px solid black;
+position: relative;
+  left:288px;
+
+}
